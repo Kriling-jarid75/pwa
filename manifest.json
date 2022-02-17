@@ -1,0 +1,68 @@
+
+
+{
+    "name" : "Mi primera App PWA",
+    "short-name" : "ABH PWA",
+    "description": "Aplicacion para la asignatura de AWP",
+    "background_color": "#FFF",
+    "theme_color": "#FB314E",
+    "orientation": "portrait",
+    "display": "standalone",
+    "id" : "./web_prog/",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope": "./", 
+    "lang": "es-MX", 
+    "icons": [
+        {
+            "src": "./img/favicon-1024.png",
+            "sizes" : "1024x1024",
+            "type" : "image/png"
+        },
+        {
+            "src": "./img/favicon-512.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        },
+        {
+            "src": "./img/favicon-384.png",
+            "sizes" : "384x384",
+            "type" : "image/png"
+        },
+        {
+            "src": "./img/favicon-256.png",
+            "sizes" : "256x256",
+            "type" : "image/png"
+        },
+        {
+            "src": "./img/favicon-192.png",
+            "sizes" : "192x192",
+            "type" : "image/png"
+        },
+        {
+            "src": "./img/favicon-128.png",
+            "sizes" : "128x128",
+            "type" : "image/png"
+        },        
+        {
+            "src": "./img/favicon-96.png",
+            "sizes" : "96x96",
+            "type" : "image/png"
+        },
+        {
+            "src": "./img/favicon-64.png",
+            "sizes" : "64x64",
+            "type" : "image/png"
+        },
+        {
+            "src": "./img/favicon-32.png",
+            "sizes" : "32x32",
+            "type" : "image/png"
+        },
+        {
+            "src": "./img/favicon-16.png",
+            "sizes" : "16x16",
+            "type" : "image/png"
+        }
+    ]
+
+}
